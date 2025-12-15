@@ -38,8 +38,8 @@ The CEO should integrate this compelling safety data into all investor pitches a
 This analysis provides a precise, data-driven framework for assessing and pricing risk. These insights can be applied by offering Teroh Airways a preferential premium rate—such as a 20% discount—for their commitment to exclusively selecting aircraft from the top five safest manufacturers identified in the analysis. Furthermore, this analysis serves as the ideal baseline to create a graduated, tiered premium scale where rates directly correlate to an airline's fleet composition across established safety tiers. Adopting this model transforms subjective risk assessment into an objective, equitable standard that can be applied across your aviation portfolio.
 
 ## Project Links:
-- [Tableau Dashboard]: (https://public.tableau.com/views/AviationSafetyAnalysisTerohAirways_/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Presentation PDF]: (presentation/presentation.pdf)
+- [Tableau Dashboard](https://public.tableau.com/views/AviationSafetyAnalysisTerohAirways_/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Presentation PDF](presentation/presentation.pdf)
 - [Data Source](https://www.ntsb.gov/)
 
 EOF
