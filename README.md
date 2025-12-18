@@ -41,7 +41,13 @@ This analysis provides a precise, data-driven framework for assessing and pricin
 - [Tableau Dashboard](https://public.tableau.com/views/AviationSafetyAnalysisTerohAirways_/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Presentation PDF](presentation/presentation.pdf)
 - [Data Source](https://www.ntsb.gov/)
+## How to Run
 
+## How to Run
+
+1. Install: `pip install -r requirements.txt`
+2. Run notebook: `jupyter notebook notebooks/aviation_analysis.ipynb`
+3. Open dashboard: `aviation_dashboard.twbx` in Tableau
 EOF
 
 
